@@ -1,8 +1,6 @@
 # Boilerplate Node.js, Express, EJS et Tailwind CSS
 
-Ce projet est un boilerplate qui combine Node.js, Express, EJS et Tailwind CSS, prêt à être utilisé comme point de départ. 
-
-Il est destiné à être utilisé comme **template** et inclut une configuration de base, des exemples de routes et la librairie Tailwind CSS est déjà liée.
+Ce projet est est destiné à être utilisé comme **template** et inclut une configuration de base, des exemples de routes et la librairie Tailwind CSS est déjà liée.
 
 ## Comment l'utiliser
 
@@ -14,7 +12,9 @@ Utiliser le bouton "Use this template" et choisir "Create a new repository"
 
 ### 2. Installer les dépendances
 
-Assurez-vous d'avoir Node.js installé sur votre machine. Ensuite, installez les dépendances du projet avec npm : `npm install`
+S'assurer d'avoir Node.js installé sur la machine. 
+
+Ensuite, installer les dépendances du projet avec npm : `npm install`
 
 ### 3. Démarrer le serveur
 
@@ -22,4 +22,4 @@ Une fois les dépendances installées, lancer le serveur :
 
 **Tips** : Les scripts npm dev et start sont déjà inclus
 
-Le serveur sera accessible à l'adresse http://localhost:3000.
+Le serveur sera accessible à l'adresse http://localhost:3000 sans modification.
