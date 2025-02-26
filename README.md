@@ -20,6 +20,6 @@ Ensuite, installer les dépendances du projet avec npm : `npm install`
 
 Une fois les dépendances installées, lancer le serveur :
 
-**Tips** : Les scripts npm dev et start sont déjà inclus
+**Tips** : Les scripts dev et start sont déjà inclus
 
 Le serveur sera accessible à l'adresse http://localhost:3000 sans modification.
