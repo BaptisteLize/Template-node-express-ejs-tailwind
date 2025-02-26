@@ -1,10 +1,8 @@
 # Boilerplate Node.js, Express, EJS et Tailwind CSS
 
-Ce projet est un boilerplate qui combine Node.js, Express, EJS et Tailwind CSS, prêt à être utilisé comme point de départ pour vos applications web. Il inclut une configuration de base, des exemples de routes et un design de base avec Tailwind CSS.
+Ce projet est un boilerplate qui combine Node.js, Express, EJS et Tailwind CSS, prêt à être utilisé comme point de départ. 
 
-## Objectif
-
-Ce boilerplate est destiné à être utilisé comme **template** pour créer rapidement des applications web avec Node.js et Express, tout en ayant un design moderne grâce à Tailwind CSS et une gestion simple des vues avec EJS.
+Il est destiné à être utilisé comme **template** et inclut une configuration de base, des exemples de routes et la librairie Tailwind CSS est déjà liée.
 
 ## Comment l'utiliser
 
